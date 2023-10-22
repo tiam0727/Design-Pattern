@@ -1,0 +1,5 @@
+#write by fileProperties
+#Sun Oct 22 22:24:32 GMT+08:00 2023
+day=21
+mouth=4
+year=2024
