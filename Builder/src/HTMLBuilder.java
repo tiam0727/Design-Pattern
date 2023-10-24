@@ -8,7 +8,7 @@ import java.io.PrintWriter;
  * @dateTime: 2023/10/23 11:08
  * @Return
  **/
-public class HTMLBuilder extends Builder{
+public class HTMLBuilder implements Builder{
     private String filename;
     private PrintWriter writer; //用于文件编写的
 

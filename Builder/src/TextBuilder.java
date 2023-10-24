@@ -4,8 +4,8 @@
  * @dateTime: 2023/10/23 11:07
  * @Return
  **/
-public class TextBuilder extends Builder {
-    private StringBuffer buffer=new StringBuffer();
+public class TextBuilder implements Builder {
+    private StringBuilder buffer=new StringBuilder();
 
     @Override
     public void makeTitle(String title) {
